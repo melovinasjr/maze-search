@@ -4,6 +4,10 @@ Coursework project for Data Structures.
 
 This project implements stack-based maze pathfinding in C. It supports 8-direction movement and reports whether a path exists through a user-provided maze.
 
+## Preview
+
+![Maze Search preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to practice stack operations, 2D array traversal, and DFS-style pathfinding.
